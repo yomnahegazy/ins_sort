@@ -1,0 +1,8 @@
+C:\Users\maria\Desktop\ins\ins\bin\Debug\ins.exe.config
+C:\Users\maria\Desktop\ins\ins\bin\Debug\ins.exe
+C:\Users\maria\Desktop\ins\ins\bin\Debug\ins.pdb
+C:\Users\maria\Desktop\ins\ins\obj\Debug\ins.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ins\ins\obj\Debug\ins.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\ins\ins\obj\Debug\ins.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ins\ins\obj\Debug\ins.exe
+C:\Users\maria\Desktop\ins\ins\obj\Debug\ins.pdb
